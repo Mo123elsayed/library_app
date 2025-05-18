@@ -58,7 +58,7 @@ You’re already here! Feel free to explore the code, and I’d love to hear you
 ## Stay Connected
 
 If you’d like to connect or follow my learning journey:  
-[LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/mohamed-elsayed-135a17277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | [GitHub](https://github.com/Mo123elsayed)
+[LinkedIn](https://www.linkedin.com/in/mohamed-elsayed-135a17277/) | [GitHub](https://github.com/Mo123elsayed)
 
 ---
 
