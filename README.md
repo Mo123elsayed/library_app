@@ -62,5 +62,14 @@ If you’d like to connect or follow my learning journey:
 
 ---
 
+> **Copyright © 2025 Mohamed El-Sayed**
+>  
+> This is a personal learning project built by me. You are welcome to learn from it, but **please credit me** if you reuse or modify the code.
 
+---
+
+## License
+
+This project is open-source and licensed under the MIT License.
+You are free to use or modify the code, but please credit the original author (Mohamed El-Sayed).
 
