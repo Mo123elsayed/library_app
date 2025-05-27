@@ -37,7 +37,7 @@ While building this app, I practiced:
 ## 🎬 Demo
 
 You can check out a short video of the app here:  
-👉 [https://www.facebook.com/share/v/1AJaZby8Cc/](#)  
+👉 [](https://www.facebook.com/share/v/1AJaZby8Cc/)  
 <!-- Replace # with your actual video link -->
 
 ---
